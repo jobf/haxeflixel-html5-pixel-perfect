@@ -7,3 +7,5 @@ The main purpose of this is to test out the pixel perfect render and pixel perfe
 Said flags help to an extent in that sub pixels are avoided when sprites are moved on the x and y axis, however some interpolation still exists during rotation.
 
 Hopefully a shader can be used to scale up the pixels instead, some discussion of that can be found here - http://forum.haxeflixel.com/topic/1061/shader-scale-offset-problem
+
+You can vew a built version here - https://jobf.github.io/haxeflixel-html5-pixel-perfect/
